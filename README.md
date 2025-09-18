@@ -1,9 +1,5 @@
 ## Hi there 👋
 
-<!--
-**Joceima/Joceima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 # 💫 About Me:
 Je suis Manita, une étudiante en Master informatique
 * 🌱 J'ai obtenu mon diplôme de [Licence informatique à l'Université Claude Bernard Lyon 1](http://licence-info.univ-lyon1.fr/LICENCE/Documents/plaquette_L_info.pdf)
