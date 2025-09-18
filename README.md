@@ -34,7 +34,6 @@ Implémentation de transformations 3D et projection, calcul d’éclairage local
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Joceima&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Joceima&theme=cobalt&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Joceima&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Joceima&icon=7&color=0)](https://visitcount.itsvg.in)
