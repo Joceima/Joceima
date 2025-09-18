@@ -28,7 +28,7 @@ Je suis Manita, une étudiante en Master informatique
 ### 🟣[Moteur 3D] OpenGL (M1 ISICG - Printemps 2025) : 
 Implémentation de transformations 3D et projection, calcul d’éclairage locale et textures discrètes. Tentative d'implémentation de Shadow Mapping.
 ![opengl](https://github.com/user-attachments/assets/5decc32b-bae9-45ed-b751-b4697ab6344e)
-![implementation_shadow_mapping](https://github.com/user-attachments/assets/bbd01090-4e45-4a8e-a2b8-c6d82ddbf10d)
+<img width="713" height="691" alt="lion_opengl" src="https://github.com/user-attachments/assets/d7a53311-9592-4098-8fb7-8a13f911b59c" />
 
 
 # 📊 GitHub Stats:
