@@ -1,6 +1,4 @@
-## Hi there 👋
-
-# 💫 About Me:
+## Bonjour 👋
 Je suis Manita, une étudiante en Master informatique
 * 🌱 J'ai obtenu mon diplôme de [Licence informatique à l'Université Claude Bernard Lyon 1](http://licence-info.univ-lyon1.fr/LICENCE/Documents/plaquette_L_info.pdf)
 * 👩‍💻 Je suis actuellement en [Master ISICG (Informatique, Synthèse d’Images et Conception Graphique à l'Université de Limoges)](https://www.sciences.unilim.fr/informatique/master-informatique-isicg/). 
