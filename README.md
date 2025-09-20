@@ -7,13 +7,13 @@ Je suis Manita, une étudiante en Master informatique
 ## Ce que j'étudie en Master ISICG
 * Traitement d'image
 * Fondement de l'informatique graphique
-* Vision par ordinateur
+* Vision par ordinateur (Réseaux de neuronnes)
 * OpenGL (Pipeline graphique)
 * Calcul GPU (CUDA, OpenMP et MPI)
 * Ray tracing et BRDF
-* Unity
-* Modélisation et animation (article scientifique et simulation physique)
-* Unreal
+* Unity (Création d'un mini jeu à niveau)
+* Modélisation et animation (étude d'un article scientifique et WEBGL )
+* Unreal (Shaders)
 * Infographie 3D (3Ds max)
 
 # 💻 Tech Stack:
