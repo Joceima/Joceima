@@ -4,9 +4,6 @@ Je suis Manita, une étudiante en Master informatique
 * 👩‍💻 Je suis actuellement en [Master ISICG (Informatique, Synthèse d’Images et Conception Graphique à l'Université de Limoges)](https://www.sciences.unilim.fr/informatique/master-informatique-isicg/). 
 * 🤝 Je viens de rentrer en M2 à la rentrée 2025 et je suis à la recherche d'un stage de 4 à 6 mois à partir de Janvier 2026 dans les domaines suivants : calcul GPU, informatique graphique ou/et vision par ordinateur !
 
-## 🌐 N'hésitez pas à me contacter sur LinkedIn
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/manita-mao) 
-
 ## Ce que j'étudie en Master ISICG
 * Traitement d'image
 * Fondement de l'informatique graphique
@@ -33,12 +30,9 @@ Implémentation de transformations 3D et projection, calcul d’éclairage local
 <img width="213" height="491" alt="lion_opengl" src="https://github.com/user-attachments/assets/d7a53311-9592-4098-8fb7-8a13f911b59c" />
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Joceima&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Joceima&theme=cobalt&hide_border=false)<br/>
+## 🌐 N'hésitez pas à me contacter sur LinkedIn
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/manita-mao) 
 
----
-[![](https://visitcount.itsvg.in/api?id=Joceima&icon=7&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
