@@ -5,13 +5,13 @@ Je suis Manita, une étudiante en Master informatique
 * 🤝 Je viens de rentrer en M2 à la rentrée 2025 et je suis à la recherche d'un stage de 4 à 6 mois à partir de Janvier 2026 dans les domaines suivants : calcul GPU, informatique graphique ou/et vision par ordinateur !
 
 ## Ce que j'étudie en Master ISICG
-Rendu & Pipeline graphique -> OpenGL, WebGL (simulations phys et méca)
-Programmation parallèle/GPU -> CUDA, OpenMP et MPI
-Simulation numérique -> Processing (simulations)
-Moteurs Temps réel -> Unity (gameplay, shaders), Unreal(shaders)
-Fabrication Additive -> Algorithmes Slicing, triangulation Delaunay, G-Code
-Vision par ordinateur -> Réseaux de neuronnes, Tensorflow, Classification d'images
-Infographie -> 3Ds Max 2025 (modélisation, textures, rendu)
+* Rendu & Pipeline graphique -> OpenGL, WebGL (simulations phys et méca)
+* Programmation parallèle/GPU -> CUDA, OpenMP et MPI
+* Simulation numérique -> Processing (simulations)
+* Moteurs Temps réel -> Unity (gameplay, shaders), Unreal(shaders)
+* Fabrication Additive -> Algorithmes Slicing, triangulation Delaunay, G-Code
+* Vision par ordinateur -> Réseaux de neuronnes, Tensorflow, Classification d'images
+* Infographie -> 3Ds Max 2025 (modélisation, textures, rendu)
 
 
 # 💻 Tech Stack:
