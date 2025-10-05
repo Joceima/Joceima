@@ -20,7 +20,9 @@ Je suis Manita, une étudiante en Master informatique
 # 👩‍💻 PortFolio en informatique graphique :
 
 ### 🟣[Images synthèses réalistes] Projet lancer de rayon et matériaux BRDF (M1 ISICG - Printemps 2025): 
-![image](https://github.com/user-attachments/assets/f6472ae6-9ba6-400b-963c-13f54729e497)
+![image](https://github.com/user-attachments/assets/d0777fee-5b64-46f1-a6de-9e29a68467fe)
+![test_ray](https://github.com/user-attachments/assets/3103644c-54fe-48d1-9c12-671a82756b48)
+
 
 ### 🟣[Moteur 3D] OpenGL (M1 ISICG - Printemps 2025) : 
 Implémentation de transformations 3D et projection, calcul d’éclairage locale et textures discrètes. Tentative d'implémentation de Shadow Mapping.
