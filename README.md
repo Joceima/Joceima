@@ -62,7 +62,7 @@
 
 
 # 🛠️ Travaux en cours : 
-### 🔵 [Unity : Gameplay et Shaders] Jeu narratif avec un mécanisme de suivi psychologique, à l’aide de QTE (Quick Time event). 
+### 🔵 [Unity : Gameplay et Shaders] Jeu narratif avec un mécanisme de suivi psychologique. 
 * écriture du game design le 10 octobre 2025
 
 
