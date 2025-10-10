@@ -62,13 +62,13 @@
 
 
 # 🛠️ Travaux en cours : 
-### 🔵 [Unity : Gameplay et Shaders] Jeu narratif avec un mécanisme de suivi psychologique, à l’aide de
-QTE (Quick Time event). 
+### 🔵 [Unity : Gameplay et Shaders] Jeu narratif avec un mécanisme de suivi psychologique, à l’aide de QTE (Quick Time event). 
 * écriture du game design le 10 octobre 2025
 
 
 # 👩‍💻 PortFolio   :
-### 🟣[Images synthèses réalistes] Projet lancer de rayon et matériaux BRDF (M1 ISICG - Printemps 2025): 
+### 🟣[Images synthèses réalistes] Projet lancer de rayon et matériaux BRDF: 
+* Semestre printemps 2025, cadre de l'UE Images synthèses réalistes, M1 ISICG.
 ![image](https://github.com/user-attachments/assets/d0777fee-5b64-46f1-a6de-9e29a68467fe)
 ![test_ray](https://github.com/user-attachments/assets/3103644c-54fe-48d1-9c12-671a82756b48)
 
