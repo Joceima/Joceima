@@ -5,14 +5,7 @@
 * 🌱 En 2024, j'ai obtenu mon diplôme de [Licence informatique à l'Université Claude Bernard Lyon 1](http://licence-info.univ-lyon1.fr/LICENCE/Documents/plaquette_L_info.pdf)
 
 
-## Ce que j'étudie en Master ISICG
-* Rendu & Pipeline graphique -> OpenGL, WebGL (simulations phys et méca)
-* Programmation parallèle/GPU -> CUDA, OpenMP et MPI
-* Simulation numérique -> Processing (simulations)
-* Moteurs Temps réel -> Unity (gameplay, shaders), Unreal(shaders)
-* Fabrication Additive -> Algorithmes Slicing, triangulation Delaunay, G-Code
-* Vision par ordinateur -> Réseaux de neuronnes, Tensorflow, Classification d'images
-* Infographie -> 3Ds Max 2025 (modélisation, textures, rendu)
+## Voici les compétences que je développe lors de mon cursus
 
 <table>
   <thead>
