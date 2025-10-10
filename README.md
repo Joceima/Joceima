@@ -1,5 +1,5 @@
 ## Bonjour 👋
-* 👩‍💻 Je suis actuellement en [Master 2 ISICG (Informatique, Synthèse d’Images et Conception Graphique à l'Université de Limoges)](https://www.sciences.unilim.fr/informatique/master-informatique-isicg/). 
+* 👩‍💻 Je suis actuellement en [Master 2 ISICG (Informatique, Synthèse d’Images et Conception Graphique) à la Faculté des Sciences et Techniques de Limoges ](https://www.sciences.unilim.fr/informatique/master-informatique-isicg/). 
 * 🤝 Je suis à la recherche d'un stage de fin d'études 4 à 6 mois à partir de Février 2026 dans les domaines suivants : l’informatique graphique (rendu), au traitement d’images, et
 à la vision par ordinateur !
 * 🌱 En 2024, j'ai obtenu mon diplôme de [Licence informatique à l'Université Claude Bernard Lyon 1](http://licence-info.univ-lyon1.fr/LICENCE/Documents/plaquette_L_info.pdf)
