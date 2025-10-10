@@ -1,8 +1,9 @@
 ## Bonjour 👋
-Je suis Manita, une étudiante en Master ISICG - Informatique, Synthèse d’Images et Conception Graphique
-* 🌱 J'ai obtenu mon diplôme de [Licence informatique à l'Université Claude Bernard Lyon 1](http://licence-info.univ-lyon1.fr/LICENCE/Documents/plaquette_L_info.pdf)
-* 👩‍💻 Je suis actuellement en [Master ISICG (Informatique, Synthèse d’Images et Conception Graphique à l'Université de Limoges)](https://www.sciences.unilim.fr/informatique/master-informatique-isicg/). 
-* 🤝 Je viens de rentrer en M2 ISICG à la rentrée 2025 et je suis à la recherche d'un stage de 4 à 6 mois à partir de Janvier 2026 dans les domaines suivants : calcul GPU, informatique graphique ou/et vision par ordinateur !
+* 👩‍💻 Je suis actuellement en [Master 2 ISICG (Informatique, Synthèse d’Images et Conception Graphique à l'Université de Limoges)](https://www.sciences.unilim.fr/informatique/master-informatique-isicg/). 
+* 🤝 Je suis à la recherche d'un stage de fin d'études 4 à 6 mois à partir de Février 2026 dans les domaines suivants : l’informatique graphique (rendu), au traitement d’images, et
+à la vision par ordinateur !
+* 🌱 En 2024, j'ai obtenu mon diplôme de [Licence informatique à l'Université Claude Bernard Lyon 1](http://licence-info.univ-lyon1.fr/LICENCE/Documents/plaquette_L_info.pdf)
+
 
 ## Ce que j'étudie en Master ISICG
 * Rendu & Pipeline graphique -> OpenGL, WebGL (simulations phys et méca)
