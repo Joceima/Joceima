@@ -5,7 +5,7 @@
 * 🌱 En 2024, j'ai obtenu mon diplôme de [Licence informatique à l'Université Claude Bernard Lyon 1](http://licence-info.univ-lyon1.fr/LICENCE/Documents/plaquette_L_info.pdf)
 
 
-## 👩🏻‍💻 Panorama de mes Connaissances en Informatique Graphique et Simulation 👩🏻‍💻
+## 👩🏻‍💻 Panorama de mes Connaissances en Informatique Graphique 👩🏻‍💻
 
 <table>
   <thead>
