@@ -1,8 +1,8 @@
 ## Bonjour 👋
-Je suis Manita, une étudiante en Master informatique
+Je suis Manita, une étudiante en Master ISICG - Informatique, Synthèse d’Images et Conception Graphique
 * 🌱 J'ai obtenu mon diplôme de [Licence informatique à l'Université Claude Bernard Lyon 1](http://licence-info.univ-lyon1.fr/LICENCE/Documents/plaquette_L_info.pdf)
 * 👩‍💻 Je suis actuellement en [Master ISICG (Informatique, Synthèse d’Images et Conception Graphique à l'Université de Limoges)](https://www.sciences.unilim.fr/informatique/master-informatique-isicg/). 
-* 🤝 Je viens de rentrer en M2 à la rentrée 2025 et je suis à la recherche d'un stage de 4 à 6 mois à partir de Janvier 2026 dans les domaines suivants : calcul GPU, informatique graphique ou/et vision par ordinateur !
+* 🤝 Je viens de rentrer en M2 ISICG à la rentrée 2025 et je suis à la recherche d'un stage de 4 à 6 mois à partir de Janvier 2026 dans les domaines suivants : calcul GPU, informatique graphique ou/et vision par ordinateur !
 
 ## Ce que j'étudie en Master ISICG
 * Rendu & Pipeline graphique -> OpenGL, WebGL (simulations phys et méca)
@@ -23,10 +23,6 @@ Je suis Manita, une étudiante en Master informatique
 ![image](https://github.com/user-attachments/assets/d0777fee-5b64-46f1-a6de-9e29a68467fe)
 ![test_ray](https://github.com/user-attachments/assets/3103644c-54fe-48d1-9c12-671a82756b48)
 
-
-### 🟣[Moteur 3D] OpenGL (M1 ISICG - Printemps 2025) : 
-Implémentation de transformations 3D et projection, calcul d’éclairage locale et textures discrètes. Tentative d'implémentation de Shadow Mapping.
-<img width="213" height="491" alt="lion_opengl" src="https://github.com/user-attachments/assets/d7a53311-9592-4098-8fb7-8a13f911b59c" />
 
 
 ## 🌐 N'hésitez pas à me contacter sur LinkedIn
