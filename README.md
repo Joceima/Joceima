@@ -16,7 +16,7 @@ Première analyse du papier de Jerry Hsu, Tongtong Wang, Kui Wu, et Cem Yuksel (
 
 ### 🟡 [Impression 3D] Développement d’un programme de tranchage et de calcul GPU
 Date de début : 1 octobre 2025 / Date de fin : EN COURS
-* Conception et implémentation du calcul de la boîte englobante d’un modèle 3D.
+* Implémentation du calcul de la boîte englobante d’un modèle 3D.
 * Développement d’un algorithme de tranchage sur l’axe Z, avec génération et export des tranches sous forme d’images bitmap.
 * Implémentation de la triangulation de Delaunay pour la reconstruction de surfaces.
 * Intégration d’une méthode de tranchage discret basée sur le Depth Peeling.
