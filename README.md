@@ -7,15 +7,15 @@
 
 ## 🛠️ Travaux en cours : 
 ### 🔵 [Unity : Gameplay et Shaders] Jeu narratif 
-** Date de début : 10 octobre 2025 / Date de fin : EN COURS **
+Date de début : 10 octobre 2025 / Date de fin : EN COURS
 
 ### 🟢 [Article scientifique] Étude et implémentation du modèle Stable Cosserat Rods 
-** Date de début : Fin septembre 2025 / Date de fin : EN COURS **
+Date de début : Fin septembre 2025 / Date de fin : EN COURS
 * Étude et implémentation simplifier du modèle Stable Cosserat Rods.
 Première analyse du papier de Jerry Hsu, Tongtong Wang, Kui Wu, et Cem Yuksel (SIGGRAPH 2025) dans le cadre de l’UE Modélisation et Animation. Rédaction d’un rapport et réalisation d’une vidéo expliquant la méthode et présentant un prototype interactif sous Processing, le lundi 20 octobre 2025.
 
 ### 🟡 [Impression 3D] Développement d’un programme de tranchage et de calcul GPU
-** Date de début : 1 octobre 2025 / Date de fin : EN COURS **
+Date de début : 1 octobre 2025 / Date de fin : EN COURS
 * Conception et implémentation du calcul de la boîte englobante d’un modèle 3D.
 * Développement d’un algorithme de tranchage sur l’axe Z, avec génération et export des tranches sous forme d’images bitmap.
 * Implémentation de la triangulation de Delaunay pour la reconstruction de surfaces.
