@@ -62,7 +62,7 @@ Première analyse du papier de Jerry Hsu, Tongtong Wang, Kui Wu, et Cem Yuksel (
     </tr>
     <tr>
       <td>Infographie</td>
-      <td>3Ds Max 2025</td>
+      <td>3Ds Max 2025 et Vray</td>
       <td>Modélisation 3D, texturing, rendu</td>
     </tr>
   </tbody>
