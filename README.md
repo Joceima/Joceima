@@ -6,7 +6,7 @@
 
 
 ## 🛠️ Travaux en cours : 
-### 🔵 [Unity : Gameplay et Shaders] Jeu narratif avec un mécanisme de suivi psychologique. 
+### 🔵 [Unity : Gameplay et Shaders] Jeu narratif 
 * écriture du game design le 10 octobre 2025
 
 ### 🟢 [Article scientifique] Étude et implémentation du modèle Stable Cosserat Rods 
