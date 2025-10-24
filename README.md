@@ -5,7 +5,7 @@
 * 🌱 En 2024, j'ai obtenu mon diplôme de [Licence informatique 📍 à l'Université Claude Bernard Lyon 1](http://licence-info.univ-lyon1.fr/LICENCE/Documents/plaquette_L_info.pdf)
 
 
-# 🛠️ Travaux en cours : 
+## 🛠️ Travaux en cours : 
 ### 🔵 [Unity : Gameplay et Shaders] Jeu narratif avec un mécanisme de suivi psychologique. 
 * écriture du game design le 10 octobre 2025
 
@@ -13,7 +13,7 @@
 * Étude et implémentation simplifier du modèle Stable Cosserat Rods.
 Première analyse du papier de Jerry Hsu, Tongtong Wang, Kui Wu, et Cem Yuksel (SIGGRAPH 2025) dans le cadre de l’UE Modélisation et Animation. Rédaction d’un rapport et réalisation d’une vidéo expliquant la méthode et présentant un prototype interactif sous Processing, le lundi 20 octobre 2025.
 
-# 👩‍💻 PortFolio   :
+## 👩‍💻 PortFolio   :
 ### 🟣[Images synthèses réalistes] Projet lancer de rayon et matériaux BRDF: 
 * Semestre printemps 2025, cadre de l'UE Images synthèses réalistes, M1 ISICG.
 ![image](https://github.com/user-attachments/assets/d0777fee-5b64-46f1-a6de-9e29a68467fe)
