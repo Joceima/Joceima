@@ -52,7 +52,7 @@ Première analyse du papier de Jerry Hsu, Tongtong Wang, Kui Wu, et Cem Yuksel (
     </tr>
     <tr>
       <td>Fabrication Additive</td>
-      <td>Slicing algorithms, triangulation Delaunay, G-Code</td>
+      <td>Slicing algorithms, triangulation Delaunay, G-Code et Cacul GPU (Depth Peeling)</td>
       <td>Préparation de modèles pour impression 3D</td>
     </tr>
     <tr>
