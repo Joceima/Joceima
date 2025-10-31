@@ -8,6 +8,9 @@
 ## 🛠️ Travaux en cours : 
 ### 🔵 [Unity : Gameplay et Shaders] Jeu narratif 
 Date de début : 10 octobre 2025 / Date de fin : EN COURS
+* Jeu en 3D
+* Systèmes de dialogues à choix multiples
+* Quick time events (QTE)
 
 ### 🟢 [Article scientifique] Étude et implémentation du modèle Stable Cosserat Rods 
 Date de début : Fin septembre 2025 / Date de fin : EN COURS
