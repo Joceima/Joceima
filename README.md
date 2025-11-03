@@ -1,7 +1,6 @@
 ## Bonjour 👋
 * 👩‍💻 Je suis actuellement en [Master 2 ISICG (Informatique, Synthèse d’Images et Conception Graphique) 📍 à la Faculté des Sciences et Techniques de Limoges ](https://www.sciences.unilim.fr/informatique/master-informatique-isicg/). 
-* 🤝 Je suis à la recherche d'un stage de fin d'études 4 à 6 mois à partir de Février 2026 dans les domaines suivants : l’informatique graphique (rendu 3D), Impression 3D et
-à la vision par ordinateur !
+* 🤝 Je suis à la recherche d'un stage de fin d'études 4 à 6 mois à partir de Février 2026 dans les domaines suivants : l’informatique graphique (rendu 3D/temps réel), impression 3D (calcul GPU, triangulation) et en vision par ordinateur !
 * 🌱 En 2024, j'ai obtenu mon diplôme de [Licence informatique 📍 à l'Université Claude Bernard Lyon 1](http://licence-info.univ-lyon1.fr/LICENCE/Documents/plaquette_L_info.pdf)
 
 
@@ -11,6 +10,8 @@ Date de début : 10 octobre 2025 / Date de fin : EN COURS
 * Jeu en 3D
 * Systèmes de dialogues à choix multiples
 * Quick time events (QTE)
+* Cutscenes timeline
+* Shaders
 
 ### 🟢 [Article scientifique] Étude et implémentation du modèle Stable Cosserat Rods 
 Date de début : Fin septembre 2025 / Date de fin : EN COURS
