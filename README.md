@@ -29,7 +29,6 @@ Date de début : 1 octobre 2025 / Date de fin : EN COURS
 ### 🟣[Images synthèses réalistes] Projet lancer de rayon et matériaux BRDF en C++: 
 * Semestre printemps 2025, cadre de l'UE Images synthèses réalistes, M1 ISICG.
 ![image](https://github.com/user-attachments/assets/d0777fee-5b64-46f1-a6de-9e29a68467fe)
-![test_ray](https://github.com/user-attachments/assets/3103644c-54fe-48d1-9c12-671a82756b48)
 
 ## 👩🏻‍💻 Panorama de mes Connaissances en Informatique Graphique 👩🏻‍💻
 
