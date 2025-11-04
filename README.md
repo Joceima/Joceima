@@ -88,6 +88,10 @@ Date de début : 1 octobre 2025 / Date de fin : EN COURS
 ## 🌐 Pour me contacter :
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/manita-mao) 
 
+## ☕ Support me :
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y3T63H8)
+
+
 # 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=Joceima&theme=shadow_green&hide_border=false)<br/>
 
