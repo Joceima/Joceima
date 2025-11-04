@@ -10,7 +10,7 @@ Date de début : 10 octobre 2025 / Date de fin : EN COURS
 * Jeu en 3D
 * Systèmes de dialogues à choix multiples
 * Quick time events (QTE)
-* Cutscenes timeline
+* Cutscenes timeline (Cinemachine)
 * Shaders
 
 ### 🟢 [Article scientifique] Étude et implémentation du modèle Stable Cosserat Rods 
