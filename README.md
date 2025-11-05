@@ -34,6 +34,19 @@ Date de début : 1 octobre 2025 / Date de fin : EN COURS
 
 ![image](https://github.com/user-attachments/assets/d0777fee-5b64-46f1-a6de-9e29a68467fe)
 
+
+### 🟠[Moteur 3D] Implémentation des TPs d'OpenGL et tentative d'implémentation de Shadow Mapping
+* Transformations 3D et projection
+* Calcul d’éclairage locale
+* Textures discrètes
+* Deferred rendering
+* Implémentation Shadow mapping 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/dfa92be8-6772-4290-9df6-5e5bbfb6af30" width="45%" />
+  <img src="https://github.com/user-attachments/assets/117d2cea-76f3-45b9-a7a1-0628749bb316" width="45%" />
+</p>
+
+
 ## 👩🏻‍💻 Panorama de mes Connaissances en Informatique Graphique 👩🏻‍💻
 
 <table>
