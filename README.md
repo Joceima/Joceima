@@ -18,7 +18,7 @@ Date de début : Fin septembre 2025 / Date de fin : EN COURS
 * Étude et implémentation simplifier du modèle Stable Cosserat Rods.
 Première analyse du papier de Jerry Hsu, Tongtong Wang, Kui Wu, et Cem Yuksel (SIGGRAPH 2025) dans le cadre de l’UE Modélisation et Animation. Rédaction d’un rapport et réalisation d’une vidéo expliquant la méthode et présentant un prototype interactif sous Processing, le lundi 20 octobre 2025.
 
-### 🟡 [Impression 3D] Développement d’un programme de tranchage et de calcul GPU
+### 🟡 [Impression 3D] Système de préparation de modèles 3D : Tranchage GPU, triangulation et Génération de GCode
 Date de début : 1 octobre 2025 / Date de fin : EN COURS
 * Implémentation du calcul de la boîte englobante d’un modèle 3D.
 * Développement d’un algorithme de tranchage sur l’axe Z, avec génération et export des tranches sous forme d’images bitmap.
