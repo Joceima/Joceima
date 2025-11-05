@@ -31,8 +31,9 @@ Date de début : 1 octobre 2025 / Date de fin : EN COURS
 * Implémentation de lumières et de support des maillages.
 * Implémentation de différents matériaux : Lambert, Phong, réflexion miroir et transparence de Fresnel.
 * Implémentation de surfaces implicites.
-
-![image](https://github.com/user-attachments/assets/d0777fee-5b64-46f1-a6de-9e29a68467fe)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d0777fee-5b64-46f1-a6de-9e29a68467fe" width="60%/>
+</p>
 
 
 ### 🟠[Moteur 3D] Implémentation des TPs d'OpenGL et implémentation de Shadow Mapping sur Normal Map
