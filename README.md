@@ -71,7 +71,7 @@ Date de début : 1 octobre 2025 / Date de fin : EN COURS
     <tr>
       <td>Simulation numérique</td>
       <td>Processing</td>
-      <td>Modélisation et visualisation de simulations numériques</td>
+      <td>Modélisation et visualisation de simulations physiques et mécaniques</td>
     </tr>
     <tr>
       <td>Moteurs Temps Réel</td>
