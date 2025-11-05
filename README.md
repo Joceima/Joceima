@@ -42,10 +42,9 @@ Date de début : 1 octobre 2025 / Date de fin : EN COURS
 * Deferred rendering
 * Implémentation Shadow mapping 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/dfa92be8-6772-4290-9df6-5e5bbfb6af30" width="45%" />
-  <img src="https://github.com/user-attachments/assets/117d2cea-76f3-45b9-a7a1-0628749bb316" width="45%" />
+  <img src="https://github.com/user-attachments/assets/b0db01d3-ae37-428a-a17b-45c9c5301760" width="45%" />
+  <img src="https://github.com/user-attachments/assets/27564f2f-3145-49f0-a3e7-61c00f4180f2" width="45%" />
 </p>
-
 
 ## 👩🏻‍💻 Panorama de mes Connaissances en Informatique Graphique 👩🏻‍💻
 
