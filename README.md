@@ -35,7 +35,7 @@ Date de début : 1 octobre 2025 / Date de fin : EN COURS
 ![image](https://github.com/user-attachments/assets/d0777fee-5b64-46f1-a6de-9e29a68467fe)
 
 
-### 🟠[Moteur 3D] Implémentation des TPs d'OpenGL et tentative d'implémentation de Shadow Mapping
+### 🟠[Moteur 3D] Implémentation des TPs d'OpenGL et implémentation de Shadow Mapping sur Normal Map
 * Transformations 3D et projection
 * Calcul d’éclairage locale
 * Textures discrètes
