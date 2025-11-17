@@ -25,7 +25,7 @@ Date de début : 1 octobre 2025 / Date de fin : EN COURS
 * Implémentation de la triangulation de Delaunay pour la reconstruction de surfaces.
 * Intégration d’une méthode de tranchage discret basée sur le Depth Peeling.
 
-## 👩‍💻 PortFolio   :
+## 👩‍💻 Travaux en M1 ISICG  :
 ### 🟣[Images synthèses réalistes] Projet lancer de rayon et matériaux BRDF en C++: 
 * Semestre printemps 2025, cadre de l'UE Images synthèses réalistes, M1 ISICG.
 * Implémentation de lumières et de support des maillages.
@@ -47,6 +47,20 @@ Date de début : 1 octobre 2025 / Date de fin : EN COURS
   <img src="https://github.com/user-attachments/assets/b0db01d3-ae37-428a-a17b-45c9c5301760" width="45%" />
   <img src="https://github.com/user-attachments/assets/27564f2f-3145-49f0-a3e7-61c00f4180f2" width="45%" />
 </p>
+
+## 💻 Les compétences en Licence Informatique à Lyon 1
+### Computer Systems : 
+Bases de l'architecture pour la programmation, UNIX, systèmes d'exploitation, architecture et système.
+
+### Développement web : 
+Javascript (asynchrone/événementiel, client/serveur), programmation impérative et fonctionnelle (OCamL), réseaux, 
+bases de données avancées.
+
+### Algorithme et programmation :
+C/C++, programmation orientée objet (Java), programmation logique (Prolog), logique classique et théorie des langages formels (CoqIDE)
+
+### Mathématiques :
+Fondamentaux des mathématiques 1 & 2, Statistiques pour l'informatique. 
 
 ## 👩🏻‍💻 Panorama de mes Connaissances en Informatique Graphique 👩🏻‍💻
 
