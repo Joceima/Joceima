@@ -6,12 +6,8 @@
 
 ## 🛠️ Travaux en cours : 
 ### 🔵 [Unity : Gameplay et Shaders] Jeu narratif 
-Date de début : 10 octobre 2025 / Date de fin : EN COURS
-* Jeu en 3D
-* Systèmes de dialogues à choix multiples
-* Quick time events (QTE)
-* Cutscenes timeline (Cinemachine)
-* Shaders
+Date de début : 20 octobre 2025 / Date de fin : 14 novembre 2025
+* Jeu en 3D, systèmes de dialogues à choix multiples, quick time events (QTE), cutscenes timeline (Cinemachine) et shaders.
 
 ### 🟢 [Article scientifique] Étude et implémentation du modèle Stable Cosserat Rods 
 Date de début : Fin septembre 2025 / Date de fin : EN COURS
@@ -20,27 +16,20 @@ Première analyse du papier de Jerry Hsu, Tongtong Wang, Kui Wu, et Cem Yuksel (
 
 ### 🟡 [Impression 3D] Préparation de modèles 3D : Tranchage GPU, triangulation et Génération de GCode
 Date de début : 1 octobre 2025 / Date de fin : EN COURS
-* Implémentation du calcul de la boîte englobante d’un modèle 3D.
 * Développement d’un algorithme de tranchage sur l’axe Z, avec génération et export des tranches sous forme d’images bitmap.
 * Implémentation de la triangulation de Delaunay pour la reconstruction de surfaces.
 * Intégration d’une méthode de tranchage discret basée sur le Depth Peeling.
 
 ## 👩‍💻 Travaux en M1 ISICG  :
 ### 🟣[Images synthèses réalistes] Projet lancer de rayon et matériaux BRDF en C++: 
-* Implémentation de lumières et de support des maillages.
-* Implémentation de différents matériaux : Lambert, Phong, réflexion miroir et transparence de Fresnel.
-* Implémentation de surfaces implicites.
+* Implémentation de lumières et de support des maillages, différents matériaux (Lambert, Phong, réflexion miroir et transparence de Fresnel) et de surfaces implicites.
 <p align="center">
   <img src="https://github.com/user-attachments/assets/d0777fee-5b64-46f1-a6de-9e29a68467fe" width="60%"/>
 </p>
 
 
 ### 🟠[Moteur 3D] Implémentation des TPs d'OpenGL
-* Transformations 3D et projection
-* Calcul d’éclairage locale
-* Textures discrètes
-* Deferred rendering
-* Tentative d'implémentation Shadow mapping sur Normal Map
+* Implémentation de transformations 3D et projection, calcul d’éclairage locale, textures discrètes, deferred rendering et tentative d'implémentation Shadow mapping sur Normal Map
 <p align="center">
   <img src="https://github.com/user-attachments/assets/b0db01d3-ae37-428a-a17b-45c9c5301760" width="45%" />
   <img src="https://github.com/user-attachments/assets/27564f2f-3145-49f0-a3e7-61c00f4180f2" width="45%" />
