@@ -27,7 +27,6 @@ Date de début : 1 octobre 2025 / Date de fin : EN COURS
 
 ## 👩‍💻 Travaux en M1 ISICG  :
 ### 🟣[Images synthèses réalistes] Projet lancer de rayon et matériaux BRDF en C++: 
-* Semestre printemps 2025, cadre de l'UE Images synthèses réalistes, M1 ISICG.
 * Implémentation de lumières et de support des maillages.
 * Implémentation de différents matériaux : Lambert, Phong, réflexion miroir et transparence de Fresnel.
 * Implémentation de surfaces implicites.
@@ -37,7 +36,6 @@ Date de début : 1 octobre 2025 / Date de fin : EN COURS
 
 
 ### 🟠[Moteur 3D] Implémentation des TPs d'OpenGL
-* Semestre printemps 2025, cadre de l'UE Moteur 3D, M1 ISICG.
 * Transformations 3D et projection
 * Calcul d’éclairage locale
 * Textures discrètes
@@ -48,7 +46,7 @@ Date de début : 1 octobre 2025 / Date de fin : EN COURS
   <img src="https://github.com/user-attachments/assets/27564f2f-3145-49f0-a3e7-61c00f4180f2" width="45%" />
 </p>
 
-## 💻 Les compétences en Licence Informatique à Lyon 1
+## 💻⚙️Les compétences en Licence Informatique à Lyon 1
 ### Computer Systems : 
 Bases de l'architecture pour la programmation, UNIX, systèmes d'exploitation, architecture et système.
 
