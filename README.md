@@ -7,7 +7,8 @@
 ## 🛠️ Travaux en cours : 
 ### 🔵 [Unity : Gameplay et Shaders] Jeu narratif 
 Date de début : 20 octobre 2025 / Date de fin : 14 novembre 2025
-* Jeu en 3D, systèmes de dialogues à choix multiples, quick time events (QTE), cutscenes timeline (Cinemachine) et shaders.
+* Jeu en 3D, systèmes de dialogues à choix multiples, quick time events (QTE), cutscenes timeline (Cinemachine) et shaders, menu et écran de Game Over.
+[GitHub du Mini Jeu](https://github.com/Joceima/jeu_m2_isicg)
 
 ### 🟢 [Article scientifique] Étude et implémentation du modèle Stable Cosserat Rods 
 Date de début : Fin septembre 2025 / Date de fin : EN COURS
