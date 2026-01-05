@@ -4,7 +4,20 @@
 * 🌱 En 2024, j'ai obtenu mon diplôme de [Licence informatique 📍 à l'Université Claude Bernard Lyon 1](http://licence-info.univ-lyon1.fr/LICENCE/Documents/plaquette_L_info.pdf)
 
 
-## 🛠️ Travaux en cours : 
+## 🛠️ Travaux en M2 ISICG : 
+
+### 🟡 [Impression 3D] OpenGL Stencil Buffer : Tranchage GPU, triangulation et Génération de chemin
+Date de début : 1 octobre 2025 / Date de fin : 31 Décembre 2025
+* Développement d’un algorithme de tranchage sur l’axe Z, avec génération et export des tranches sous forme d’images bitmap.
+* Implémentation de la triangulation de Delaunay pour la reconstruction de surfaces.
+* Intégration d’une méthode de tranchage discret basée sur le Depth Peeling. 
+* Génération de contours et de chemins
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b65ce64d-3051-4e3b-8d2c-8d7d99702183" width="45%" />
+  <img src="https://github.com/user-attachments/assets/62144193-b206-45db-8a2b-ec7617d2653d" width="45%" />
+</p>
+
 ### 🔵 [Unity : Gameplay et Shaders] Jeu narratif 
 Date de début : 20 octobre 2025 / Date de fin : 14 novembre 2025
 * Jeu en 3D, systèmes de dialogues à choix multiples, quick time events (QTE), cutscenes timeline (Cinemachine) et shaders, menu et écran de Game Over.
@@ -17,17 +30,11 @@ Première analyse du papier de [Jerry Hsu, Tongtong Wang, Kui Wu, et Cem Yuksel 
 
 📼[Première vidéo explicatique de l'article Stable Cosserat Rods - UE : Modélisation et animation ](https://youtu.be/DZ2fTuw_ZII) 
 
-
-### 🟡 [Impression 3D] OpenGL Stencil Buffer : Tranchage GPU, triangulation et Génération de chemin
-Date de début : 1 octobre 2025 / Date de fin : 31 Décembre 2025
-* Développement d’un algorithme de tranchage sur l’axe Z, avec génération et export des tranches sous forme d’images bitmap.
-* Implémentation de la triangulation de Delaunay pour la reconstruction de surfaces.
-* Intégration d’une méthode de tranchage discret basée sur le Depth Peeling. 
-* Génération de contours et de chemins
-
+### 🖼️ [Infographie] Pratique de 3DS max 2026 et de V-Ray 7
+* Modélisation d'un sabre laser : blue print, chamfrein etc..
+* Rendu : texture bitmap (VRay material) et lumière (VRay Light)
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/b65ce64d-3051-4e3b-8d2c-8d7d99702183" width="45%" />
-  <img src="https://github.com/user-attachments/assets/62144193-b206-45db-8a2b-ec7617d2653d" width="45%" />
+  <img width="70%" height="704" alt="17" src="https://github.com/user-attachments/assets/b245e4c3-9b28-453e-9ed0-e0799928e616" />
 </p>
 
 ## 👩‍💻 Travaux en M1 ISICG  :
