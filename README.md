@@ -11,7 +11,7 @@ Date de début : 20 octobre 2025 / Date de fin : 14 novembre 2025
 [GitHub du Mini Jeu](https://github.com/Joceima/jeu_m2_isicg)
 
 ### 🟢 [Article scientifique] Étude d'article scientifique
-Date de début : Fin septembre 2025 / Date de fin : EN COURS
+Date de début : Fin septembre 2025 / Date de fin : Novembre 2025
 * Étude et implémentation simplifier du modèle Stable Cosserat Rods.
 Première analyse du papier de [Jerry Hsu, Tongtong Wang, Kui Wu, et Cem Yuksel (SIGGRAPH 2025)](https://jerryhsu.io/projects/StableCosseratRods/) dans le cadre de l’UE Modélisation et Animation. Rédaction d’un rapport et réalisation d’une vidéo expliquant la méthode et présentant un prototype interactif sous Processing, le lundi 20 octobre 2025.
 
