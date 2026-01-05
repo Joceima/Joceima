@@ -34,8 +34,10 @@ Première analyse du papier de [Jerry Hsu, Tongtong Wang, Kui Wu, et Cem Yuksel 
 * Modélisation d'un sabre laser : blue print, chamfrein etc..
 * Rendu : texture bitmap (VRay material) et lumière (VRay Light)
 <p align="center">
+  <img width="70%" height="704" alt="17" src="https://github.com/user-attachments/assets/8e882ebf-a7b7-4900-a5c9-b38ddb53c436" />
   <img width="70%" height="704" alt="17" src="https://github.com/user-attachments/assets/b245e4c3-9b28-453e-9ed0-e0799928e616" />
 </p>
+
 
 ## 👩‍💻 Travaux en M1 ISICG  :
 ### 🟣[Images synthèses réalistes] Projet lancer de rayon et matériaux BRDF en C++: 
