@@ -31,6 +31,8 @@ Première analyse du papier de [Jerry Hsu, Tongtong Wang, Kui Wu, et Cem Yuksel 
 📼[Première vidéo explicatique de l'article Stable Cosserat Rods - UE : Modélisation et animation ](https://youtu.be/DZ2fTuw_ZII) 
 
 ### 🖼️ [Infographie] Pratique de 3DS max 2026 et de V-Ray 7
+* Temps modélisation et prise en main de 3DS max 2026 : 20 à 25 heures
+* Temps rendu et prise en main de V-Ray 7 : 3 à 4 heures
 * Modélisation d'un sabre laser : blue print, chamfrein etc..
 * Rendu : texture bitmap (VRay material) et lumière (VRay Light)
 <p align="center">
@@ -111,7 +113,7 @@ Fondamentaux des mathématiques 1 & 2, Statistiques pour l'informatique.
     </tr>
     <tr>
       <td>Infographie</td>
-      <td>3Ds Max 2025 et Vray</td>
+      <td>3Ds Max 2026 et Vray 7</td>
       <td>Modélisation 3D, texturing, rendu</td>
     </tr>
   </tbody>
