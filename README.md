@@ -19,7 +19,13 @@ Première analyse du papier de [Jerry Hsu, Tongtong Wang, Kui Wu, et Cem Yuksel 
 Date de début : 1 octobre 2025 / Date de fin : EN COURS
 * Développement d’un algorithme de tranchage sur l’axe Z, avec génération et export des tranches sous forme d’images bitmap.
 * Implémentation de la triangulation de Delaunay pour la reconstruction de surfaces.
-* Intégration d’une méthode de tranchage discret basée sur le Depth Peeling.
+* Intégration d’une méthode de tranchage discret basée sur le Depth Peeling. 
+* Génération de contours et de chemins
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b65ce64d-3051-4e3b-8d2c-8d7d99702183" width="45%" />
+  <img src="https://github.com/user-attachments/assets/62144193-b206-45db-8a2b-ec7617d2653d" width="45%" />
+</p>
 
 ## 👩‍💻 Travaux en M1 ISICG  :
 ### 🟣[Images synthèses réalistes] Projet lancer de rayon et matériaux BRDF en C++: 
