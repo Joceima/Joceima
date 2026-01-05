@@ -10,13 +10,13 @@ Date de début : 20 octobre 2025 / Date de fin : 14 novembre 2025
 * Jeu en 3D, systèmes de dialogues à choix multiples, quick time events (QTE), cutscenes timeline (Cinemachine) et shaders, menu et écran de Game Over.
 [GitHub du Mini Jeu](https://github.com/Joceima/jeu_m2_isicg)
 
-### 🟢 [Article scientifique] Étude et implémentation du modèle Stable Cosserat Rods 
+### 🟢 [Article scientifique] Étude d'article scientifique
 Date de début : Fin septembre 2025 / Date de fin : EN COURS
 * Étude et implémentation simplifier du modèle Stable Cosserat Rods.
 Première analyse du papier de [Jerry Hsu, Tongtong Wang, Kui Wu, et Cem Yuksel (SIGGRAPH 2025)](https://jerryhsu.io/projects/StableCosseratRods/) dans le cadre de l’UE Modélisation et Animation. Rédaction d’un rapport et réalisation d’une vidéo expliquant la méthode et présentant un prototype interactif sous Processing, le lundi 20 octobre 2025.
 
 ### 🟡 [Impression 3D] OpenGL Stencil Buffer : Tranchage GPU, triangulation et Génération de chemin
-Date de début : 1 octobre 2025 / Date de fin : EN COURS
+Date de début : 1 octobre 2025 / Date de fin : 31 Décembre 2025
 * Développement d’un algorithme de tranchage sur l’axe Z, avec génération et export des tranches sous forme d’images bitmap.
 * Implémentation de la triangulation de Delaunay pour la reconstruction de surfaces.
 * Intégration d’une méthode de tranchage discret basée sur le Depth Peeling. 
